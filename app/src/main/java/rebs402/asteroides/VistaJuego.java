@@ -98,6 +98,12 @@ public class VistaJuego extends View {
             Asteroides.add(asteroide);
         }
 
+
+
+
+
+
+
     }
 
     @Override

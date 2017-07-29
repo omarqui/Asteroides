@@ -13,6 +13,10 @@ public class AlmacenPuntuacionesArray implements AlmacenPuntuaciones {
         puntuaciones = new Vector();
         puntuaciones.add("123000 Juan Perez");
         puntuaciones.add("115000 Ramon Lopez");
+
+
+
+
         puntuaciones.add("000458 Pepe Ramiro");
         puntuaciones.add("123000 Juan Perez");
         puntuaciones.add("115000 Ramon Lopez");
