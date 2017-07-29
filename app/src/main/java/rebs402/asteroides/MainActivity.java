@@ -47,6 +47,10 @@ public class MainActivity extends AppCompatActivity {
         btnPuntuaciones.startAnimation(animacionDesplaDerecha);
         btnSalir.startAnimation(animacionAparecer);
 
+
+
+
+
         btnAcercaDe.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

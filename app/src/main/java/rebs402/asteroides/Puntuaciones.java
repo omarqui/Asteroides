@@ -21,6 +21,9 @@ public class Puntuaciones extends ListActivity {
         setListAdapter(new MiAdaptador(this,MainActivity.almacen.listaPuntuaciones(20)));
     }
 
+
+
+
     @Override
     protected void onListItemClick(ListView l, View v, int position, long id) {
         super.onListItemClick(l, v, position, id);
