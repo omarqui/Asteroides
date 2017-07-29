@@ -101,9 +101,6 @@ public class VistaJuego extends View {
 
 
 
-
-
-
     }
 
     @Override
