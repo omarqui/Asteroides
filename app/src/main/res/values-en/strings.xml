@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asteroides</string>
+    <string name="jugar">Play</string>
+    <string name="configurar">Settings</string>
+    <string name="acerca_de">About</string>
+    <string name="puntuaciones">Rating</string>
+    <string name="salir">Exit</string>
+    <string name="texto_acerca">
+         Este juego es una practica de programacion de despositivos mobiles.\n\n
+        Alumno: Omarqui Aybar\n
+        Profesor : Fernando Peralta\n\n
+
+        Pero lo que realmente impota es tu Vida,
+        nel, es broma, lo importante de esta aplicacion es que te amo Frida!!!
+
+
+    </string>
+</resources>
